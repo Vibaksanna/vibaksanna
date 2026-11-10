@@ -87,7 +87,7 @@ or my [portfolio](https://vibaksanna.github.io/My_Portfolio).
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vibaksanna&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibaksanna&layout=compact&hide_border=true)
+![Profile views](https://komarev.com/ghpvc/?username=vibaksanna&style=flat-square&color=0a66c2)
+![Followers](https://img.shields.io/github/followers/vibaksanna?style=flat-square&logo=github)
 
 </div>
